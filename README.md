@@ -1,2 +1,2 @@
 # gocode
-Some gocode for learning purposes
+Some golang code for learning purposes
