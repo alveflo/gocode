@@ -1,4 +1,4 @@
-# Pair of numbers
+# Character counter
 Counts repetition of each characters in a given string
 
 ## Test
