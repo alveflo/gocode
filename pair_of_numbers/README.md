@@ -1,9 +1,5 @@
 # Pair of numbers
 Finds matching pair from a given list of positive integers that adds up to a given sum
-## Install
-```
-$ go get github.com/alveflo/gocode/pairs
-```
 
 ## Test
 ```
