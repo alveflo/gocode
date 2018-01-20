@@ -1,4 +1,4 @@
-package main
+package pair_of_numbers
 
 import "fmt"
 
@@ -36,7 +36,7 @@ func main() {
 	pairs := findPairs(values, sum)
 
 	fmt.Println("Given")
-	fmt.Print("[ ")
+	fmt.Print("  [ ")
 	for _, val := range values {
 		fmt.Print(val, " ")
 	}
