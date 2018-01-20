@@ -1,2 +1,2 @@
-# scripts
-Collection of useful and not so useful scripts
+# gocode
+Some gocode for learning purposes
